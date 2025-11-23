@@ -16,7 +16,7 @@ public class Main {
     private static void runTicketSystem() {
         int choice;
         do {
-            System.out.println("\n===== Transportation Ticketing System =====");
+            System.out.println("\n===== Transportation Monitoring System =====");
             System.out.println("[1] Add Ticket");
             System.out.println("[2] View Ticket");
             System.out.println("[3] Update Ticket");
